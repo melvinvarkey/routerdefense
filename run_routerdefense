@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+import routerdefense
+start = routerdefense.__init__
