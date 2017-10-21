@@ -7,6 +7,8 @@ It gives the opportunity to audit network devices in a quick, efficient way and 
 The tool has been released at the BRUCON 2010 conference and includes around 140 tests.
 It requires Python 2.7.
 
+Project status: Abandoned
+
 ## Linux installation
 
 Install reportlab to render PDF reports.
